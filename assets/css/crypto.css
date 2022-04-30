@@ -2175,6 +2175,15 @@ select:visited {
     background-color: transparent;
 }
 
+.contact-form2{
+  width: 100%;
+    height: 112px;
+    padding-left: 15px;
+    border-radius: 30px;
+    border: 1px solid #fff;
+    background-color: transparent;
+}
+
 .cr-btn button {
   color: #fff;
   width: 155px;
@@ -2186,6 +2195,22 @@ select:visited {
 }
 .cr-btn button:hover {
   background-color: #02DFBF;
+}
+.whyus{
+  padding: 20px;
+}
+
+.whyus ul li{
+  font-size: 23px;
+  list-style-type: none; 
+}
+
+.tick{
+  width: 28px;
+}
+
+.logo-text{
+  color: #fff;
 }
 
 @media only screen and (max-width: 600px) {
